@@ -1,3 +1,3 @@
 # Power_BI-Data-Professional-
 ## Overview
-This repository Contains visualised analysis of a survey on Data Professionals.
+This repository Contains visualised analysis using POWER_BI to visually display comparisons, metrics & statistics of a survey done on Data professionals in different fields relating to data.
